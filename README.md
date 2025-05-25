@@ -1,0 +1,1 @@
+I am Power BI Summer Intern at Celebal Technologies (Celebal Summer Internship 2025). My CT ID alloted to me is CT_CSI_PB_938. This repository stores all of my assignments, which I have submitted in accordance with them.
